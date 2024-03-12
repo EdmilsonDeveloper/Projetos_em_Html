@@ -1,2 +1,2 @@
-# Site_Folha_Brasil
+# Site Folha Brasil
  Repositorio do meu Primeiro Projeto em Html, Css e um pouco de JavaScript...
